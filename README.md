@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C & C# & .NetFrameWork, Xamarin, Arduino.
 - 💞️ I’m looking to collaborate on ( Finishing My projects ).
 - 📫 How to reach me ( You could contact me on my adresse email : ismy.dtsl@gmail.com ).
-- 		WHO COULD KNOW THE MEANING OF MY NAME "IsmyDtsl" :)
+- 😊 Whow could know the meaning of my name "Ismy_Dtsl"
 
 <!---
 IsmyDtsl/IsmyDtsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
